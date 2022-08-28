@@ -1,8 +1,11 @@
-- title: About
-  url: /about.html
+- title: General
+  url: /general.html
 
-- title: Source
-  url: https://github.com/elotroalex/f22-intro-dh
+- title: Assignments
+  url: /assignments.html
+
+- title: Schedule
+  url: /schedule.html
 
 - title: Instructor
   url: http://www.elotroalex.com/profiles/
