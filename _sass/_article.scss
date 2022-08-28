@@ -20,16 +20,16 @@
   text-align: center;
 }
 
-.post p {
-  text-align: justify;
-  text-indent: 1.5em;
-  text-justify: inter-word;
-}
+// .post p {
+//   text-align: justify;
+//   text-indent: 1.5em;
+//   text-justify: inter-word;
+// }
 
-.post p:first-of-type,
-.post h2 + p {
-  text-indent: 0;
-}
+// .post p:first-of-type,
+// .post h2 + p {
+//   text-indent: 0;
+// }
 
 .post a:hover {
   background: $highlight;
