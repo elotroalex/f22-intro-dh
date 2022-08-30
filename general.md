@@ -27,7 +27,7 @@ This course will take two distinct forms: Mondays will consist of a seminar prec
 
 ### Requisites
 
-An interest in questions of art, history, interpretation, culture, philosophy---in short, all that we shape, which shapes us in return... and a computer.
+An interest in questions of art, history, law, culture, philology and philosophy---in short, all that we shape, which shapes us in return... and a computer.
 
 ### Course Materials
 
@@ -38,14 +38,14 @@ All readings in this course will be provided *free to you*. Many articles and bo
 - 20% Online Annotations
 - 10% Class Participation
 - 20% Midterm Exam
-- 25% Collective Research Project
-- 25% Scholarly Project Design Paper
+- 30% Collective Research Project
+- 20% Scholarly Project Design Paper
 
 ### Fundamentals of Computing
 
-This course shares much with peer courses at other institutions. You will study several genres of Digital Humanities, and get a sense of the wide range of practical possibilities available to you now, or in the future. The course revolves around two gravitational pulls: a sense of the architectures behind the scholarly and cultural record (the Humanities, sort of), and what we could call fundamentals of computing (the Digital, sort of). Even though there are no technical requirements prior to you joining the class, you will be expected to experiment with new tools and learn new technical skills throughout the semester. 
+This course shares much with peer courses at other institutions. You will study several genres of Digital Humanities, and get a sense of the wide range of practical possibilities available to you now, or in the future. One important difference, though, between this course and that of our peers is that ours does not spend too much time on the field of Digital Humanities itself qua field. Our course hovers instead between two gravitational centers: the architectures behind the scholarly and cultural record (the Humanities, sort of), and what we could call fundamentals of computing (the Digital, sort of). 
 
-Although you will be exposed to several "user friendly" tools and genres of Digital Humanities, the accent will be placed on symbolic computation---the manipulation of symbols. This will involve a completely different way of understanding and using your computer for many of you. The course is designed to guide you through these beginner steps in a way that hopefully minimizes the sense of alienation you may feel. These "fundamentals" serve as the basis for most artisanal practices in the Digital Humanities and beyond. In this sense, the course also serves as a friendly introduction to computation for Humanities majors or graduate students. You will not be expected to be a full-time programmer at the end of the course, or even "learn how to code," but you will be expected to understand many related concepts, and even do a thing or two using symbols instead of clicks. In Part II in the Spring, we will build on these fundamentals to improve our computational skills in order to begin to use algorithms and other computational techniques to study and manipulate cultural corpora at various scales.
+Even though there are no technical requirements prior to you joining the class, you will be expected to play with new tools and learn new concrete technical skills throughout the semester. Even though you will be exposed to several "user friendly" tools and genres of Digital Humanities, the accent will be placed on symbolic computation. This will involve a completely different way of understanding and using your computer for many of you. The course is designed to guide you through these beginner steps in a way that hopefully minimizes the sense of alienation you may feel. These "fundamentals" serve as the basis for most artisanal practices in the Digital Humanities and beyond. In this sense, the course also serves as a friendly introduction to computation for Humanities majors or graduate students. You will not be expected to be a full-time programmer at the end of the course, or even "learn how to code," but you will be expected to understand many related concepts, and even do a thing or two using symbols instead of clicks. In Part II in the Spring, we will build on these fundamentals to improve our computational skills in order to begin to use algorithms and other computational techniques to study and manipulate cultural corpora at various scales.
 
 In addition to computing, you will also be introduced to some basics of Design and Project Management throughout the course. Design, because it shows we care about our audiences, and Project Management because projects need to be properly scoped and organized in order to become a reality in time.
 
@@ -54,7 +54,7 @@ In addition to computing, you will also be introduced to some basics of Design a
 
 I learned the ropes of Digital Humanities with a cohort of graduate students, as part of the [Praxis Program](https://praxis.scholarslab.org/) at the University of Virginia. Over the course of an academic year, our cohort worked to build a tool that allowed users to annotate a shared text, and compare their annotations after---team and project were central to my own learning. In order to be able to build Prism, the Praxis Program taught us the fundamentals of computing, design, project management, and *collaboration*. Since then, collaboration has been a mainstay of my professional practice. I do not expect any of you to be a natural at it. My own cohort surely had growing pains. True collaboration, presence and engagement with each other will be our overriding aspiration in this course. Below are some considerations in the form of a code of conduct to get us started thinking about our work together.
 
-This code of conduct borrows from the stellar model outlined by Northeastern’s [Feminist Coding Collective](https://digitalfeministcommons.northeastern.edu/) (via Ryan Cordell) combined with our [tenets at the xpmethod lab at Columbia University](https://xpmethod.columbia.edu/lab-culture.html). 
+This code of conduct borrows from the stellar model outlined by Northeastern’s [Feminist Coding Collective](https://digitalfeministcommons.northeastern.edu/) combined with our [tenets at the xpmethod lab at Columbia University](https://xpmethod.columbia.edu/lab-culture.html). 
 
 - **It’s okay not to know**: Assume that no one inherently knows what we’re learning. We all come to this class with different backgrounds and abilities; none of us (including the instructor) will know everything and that is okay! Encourage a space where it’s okay to ask questions.
 - **Be respectful**: Do not use harmful language or stereotypes that target people of all different gender, abilities, races, ages, ethnicities, languages, socioeconomic classes, bodies, sexualities, and other aspects of identity. Respect each other in both physical and digital spaces.
