@@ -63,9 +63,7 @@ Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
 ##### Seminar | Monday, September 19
 
--   Bush, Vannevar. "[As We May
-    Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)."
-    *The Atlantic*, July 1945.
+-   Bush, Vannevar. "[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." *The Atlantic*, July 1945.
 -   Tagg, John. "[The Archiving Machine; Or, The Camera and the Filing
     Cabinet](http://www.mitpressjournals.org.ezproxy.cul.columbia.edu/doi/pdf/10.1162/GREY_a_00068)."
     *Grey Room*, no. 47 (April 1, 2012): 24--37.
@@ -170,7 +168,7 @@ Examine: [The Viral Texts Project](https://viraltexts.org/)
     archipelagosjournal.org,
     https://doi.org/10.7916/archipelagos-6sqv-2f98.
 
-Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/)
+Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/); [Colored Conventions Project](https://coloredconventions.org/)
 
 
 ### Week 8
@@ -186,7 +184,7 @@ Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/)
 
 ### Week 9
 
-#### Play: Digital Storytelling, Electronic Literature
+#### Poesis: Digital Storytelling, Electronic Literature
 
 ##### Seminar | Monday, October 31
 
@@ -208,25 +206,23 @@ Examine: [The Electronic Literature Collection](https://collection.eliterature.o
 
 ### Week 10
 
-#### Readers: Design, Access, Reviews
+#### Archons: This Archive Is Not A City... Maybe.
 
 ##### Seminar | Monday, November 7
 
 -   Brouillette, Sarah. *UNESCO and the Fate of the Literary*. Stanford
     University Press, 2019. Selections.
--   Mattern, Shannon. A City Is Not a Computer. 2021.
-    press.princeton.edu,
-    https://press.princeton.edu/books/paperback/9780691208053/a-city-is-not-a-computer.
+-   Mattern, Shannon. *[A City Is Not a Computer](https://press.princeton.edu/books/paperback/9780691208053/a-city-is-not-a-computer)*. Princeton University Press, 2021. Selections.
 -   Le Corbusier. *The Modulor: A Harmonious Measure to the Human Scale
     Universally Applied to Architecture and Mechanics*. 1968.
+    Selections; *Towards a New Architecture*. Martino Fine Books, 2014.
     Selections.
 -   Parham, Marisa. ".Break .Dance." *sx archipelagos*, no. 3,
     July 2019. archipelagosjournal.org,
     https://doi.org/10.7916/archipelagos-xn3y-vj19.
--   -----. *Towards a New Architecture*. Martino Fine Books, 2014.
-    Selections.
 
-Examine: The material world around you.
+
+Examine: The material world around you. I know, I know. Just look at it again, please.
 
 ##### Studio | Wednesday, November 9
 
@@ -236,6 +232,8 @@ Examine: The material world around you.
 ### Week 11
 
 #### Labor: Collaboration, Divisions of Labor, Project Management
+
+##### Seminar | Monday, November 14
 
 -   Smith, Adam, and Andrew Skinner. *The Wealth of Nations*. 1st
     edition, Penguin Classics, 1982. Selections from Book 1.
@@ -250,11 +248,15 @@ Examine: The material world around you.
 
 Examine: [The Praxis Network](http://praxis-network.org/)
 
-**Studio**: Github
+##### Studio | Wednesday, November 16 
+
+- Github
 
 ### Week 12
 
 #### Machines: Minimal Computing, Computing a little
+
+##### Seminar | Monday, November 28
 
 -   Nowviskie, Bethany. "Digital Humanities in the Anthropocene."
     Digital Scholarship in the Humanities, vol. 30, no. 1, Dec. 2015,
@@ -266,23 +268,27 @@ Examine: [The Praxis Network](http://praxis-network.org/)
 -   Ramsay, Stephen. *Reading Machines: Toward and Algorithmic
     Criticism*. University of Illinois Press, 2011. Selections.
 
-Examine:
+Examine: A replica of the Turing machine
 
-**Studio**: A very gentle introduction to algorithmic thinking and
-practice
+##### Studio | Wednesday, December 1 
+ 
+ - A very gentle introduction to algorithmic thinking and practice with Python
 
 ### Week 13
 
-#### The World: Nimble Tents
+#### Exeunt to the World: Nimble Tents
+
+##### Seminar | Monday, December 5
 
 -   [The Nimble Tents Toolkit](https://nimbletents.github.io/)
--   Sá Pereira, Moacir P. de. "Representation Matters." *Torn
-    Apart/Separados*. June 2018. xpmethod.columbia.edu,
-    http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p\_de_sa_pereira_2.html.
+-   Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p\_de_sa_pereira_2.html)." *Torn
+    Apart/Separados*. June 2018. xpmethod.columbia.edu.
 
-Examine: Torn Apart/Separados, SUCHO
+Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/), [SUCHO](https://www.sucho.org/)
 
-**Studio**: Google maps
+##### Studio | Wednesday, December 7
+
+- Google maps
 
 ### The Final Week
 
@@ -290,4 +296,4 @@ Examine: Torn Apart/Separados, SUCHO
 
 On the final week we will simply celebrate each other's works and
 camaraderie. Stay tuned for next semesters *Introduction to Digital
-Humanities II: Algorithmic Approaches to Corpora*.
+Humanities II: Algorithmic Approaches to Corpora*. Location TBD.
