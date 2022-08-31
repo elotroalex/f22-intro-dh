@@ -134,7 +134,7 @@ Examine: [The Open Syllabus Project](https://opensyllabus.org/)
 
 ### Week 6
 
-#### Data: Given and Taken, Law and Order.
+#### Data: Given and Taken, Wrestling Chaos.
 
 ##### Seminar | Monday, October 10
 
@@ -173,9 +173,11 @@ Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/); [Colored Con
 
 ### Week 8
 
-#### Halfway there
+#### Breathe
 
-##### Midterm Exam | Monday, October 24
+##### Midterm Chat | Monday, October 24
+
+- Project evaluations due.
 
 ##### Studio | Wednesday, October 26
 
@@ -206,7 +208,7 @@ Examine: [The Electronic Literature Collection](https://collection.eliterature.o
 
 ### Week 10
 
-#### Archons: This Archive Is Not A City... Maybe.
+#### Artifice: This Archive Is Not A City.
 
 ##### Seminar | Monday, November 7
 
@@ -231,7 +233,7 @@ Examine: The material world around you. I know, I know. Just look at it again, p
 
 ### Week 11
 
-#### Labor: Collaboration, Divisions of Labor, Project Management
+#### Craft: Collaboration, Divisions of Labor, Project Management
 
 ##### Seminar | Monday, November 14
 
