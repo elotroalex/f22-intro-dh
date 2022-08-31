@@ -42,7 +42,7 @@ All readings in this course will be provided *free to you*. Many articles and bo
 
 - 20% Online Annotations
 - 10% Class Participation
-- 20% Midterm Evaluation
+- 20% Midterm Review
 - 30% Collective Research Project
 - 20% Scholarly Project Design Paper
 

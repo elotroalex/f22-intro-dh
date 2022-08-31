@@ -21,7 +21,7 @@ title: Schedule
 
 ##### Seminar | Wednesday, September 7
 
-- Borges, Jorge Luis. "The Library of Babel"; "El Aleph."
+- Borges, Jorge Luis. "The Congress of the World"; "El Aleph."
 - Burdick, Anne, et al. [*Digital_Humanities*](https://direct.mit.edu/books/book/5346/Digital-Humanities). MIT Press, 2012.
 - Risam, Roopika. "Introduction: The Postcolonial Digital Cultural Record." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*. Northwestern University Press, 2018.
 - [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam. Vol. 3.
@@ -143,6 +143,8 @@ Book Arts Press, 2002.
     Digital Humanities Quarterly, vol. 005, no. 1, Mar. 2011.
 -   Benjamin, Ruha. *Race after Technology: Abolitionist Tools for the
     New Jim Code*. Polity, 2019. Selections.
+- Halberstam, Jack. "Zombie Antihumanism at the End of the World." *Wild Things: The Disorder of Desire*. Perverse Modernities. Durham: Duke University Press, 2020.
+
 
 ☛ Examine: [The Viral Texts Project](https://viraltexts.org/); [(Un)Silencing Slavery](https://unsilencing-slavery.org/credits)
 
@@ -189,7 +191,7 @@ Book Arts Press, 2002.
 
 ##### Seminar | Monday, October 31
 
--   Borges, Jorge Luis. "Tlön, Uqbar, Orbis Tertius" (1940)
+-   Borges, Jorge Luis. "The Library of Babel" (1941); "Tlön, Uqbar, Orbis Tertius" (1940)
 -   Basile, Jonathan. "[The Library of Babel](https://libraryofbabel.info/)" (2015)
 -   Momfort, Nick and Stephanie Strickland. "[Sea and Spar in
     Between](http://winteranthology.com/?vol=3&author=montfort-strickland&title=seaandspar)."
