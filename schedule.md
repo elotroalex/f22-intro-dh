@@ -30,7 +30,7 @@ title: Schedule
 
 ### Week 2
 
-#### Letters: Plain Text. Encoding. Surface and Depth. WYSIWYG... or not.
+#### Letters: Surface and Depth, WYSIWYG... or not.
 
 ##### Seminar | Monday, September 12
 
@@ -46,11 +46,11 @@ title: Schedule
     Analysis](http://poeticstoday.dukejournals.org/content/25/1/67.abstract)."
     *Poetics Today* 25, no. 1 (2004): 67--90.
 
-Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
+☛ Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
 ##### Studio | Wednesday, September 14
 
-- Plain Text Editing
+- What is Plain Text?
 - Tutorial: [Microsoft Visual Studio Code](https://code.visualstudio.com/)  (Please install before class)
 
 
@@ -77,7 +77,7 @@ Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
     Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
     Programming Historian, Mar. 2014. programminghistorian.org.
 
-Examine: Your file system and storage
+☛ Examine: Your file system and storage
 
 ##### Studio | Wednesday, September 21
 
@@ -86,7 +86,7 @@ Examine: Your file system and storage
 
 ### Week 4
 
-#### Editions: Static Sites, Markup
+#### Editions: The Point is to Change It 
 
 ##### Seminar | Monday, September 26
 
@@ -97,7 +97,7 @@ Examine: Your file system and storage
 -   McGann, Jerome. *Radiant Textuality: Literary Studies after the
     World Wide Web*. 1st edition, Palgrave Macmillan, 2001.
 
-Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
+☛ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
 
 ##### Studio | Wednesday, September 28 
 
@@ -106,7 +106,7 @@ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
 
 ### Week 5
 
-#### Bibliographies: Search Results, Works Cited, Syllabi, Catalogues
+#### Bibliographies: Search Results, Works Cited, Syllabi, Catalogues, Shout-outs and If You Liked This Maybe You will Like That 
 
 ##### Seminar | Monday, October 3
 
@@ -122,11 +122,10 @@ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
 -   Godin, Benoît. "On the Origins of Bibliometrics." *Scientometrics*,
     vol. 68, no. 1, July 2006, pp. 109--33. akjournals.com,
     https://doi.org/10.1007/s11192-006-0086-0.
+- Tanselle, G. Thomas. "Table of Contents." *Introduction to Bibliography*.
+Book Arts Press, 2002. 
 
-For your Bookshelf: Tanselle, G. Thomas. *Introduction to Bibliography*.
-Book Arts Press, 2002.
-
-Examine: [The Open Syllabus Project](https://opensyllabus.org/)
+☛ Examine: [The Open Syllabus Project](https://opensyllabus.org/)
 
 ##### Studio | Wednesday, October 5  
 
@@ -134,7 +133,7 @@ Examine: [The Open Syllabus Project](https://opensyllabus.org/)
 
 ### Week 6
 
-#### Data: Given and Taken, Wrestling Chaos.
+#### Data: Given and Taken, Where the Wild Things Are.
 
 ##### Seminar | Monday, October 10
 
@@ -145,7 +144,7 @@ Examine: [The Open Syllabus Project](https://opensyllabus.org/)
 -   Benjamin, Ruha. *Race after Technology: Abolitionist Tools for the
     New Jim Code*. Polity, 2019. Selections.
 
-Examine: [The Viral Texts Project](https://viraltexts.org/)
+☛ Examine: [The Viral Texts Project](https://viraltexts.org/); [(Un)Silencing Slavery](https://unsilencing-slavery.org/credits)
 
 ##### Studio | Wednesday, October 12
 
@@ -154,7 +153,7 @@ Examine: [The Viral Texts Project](https://viraltexts.org/)
 
 ### Week 7
 
-#### Collections: Repositories, Archives, Libraries, Databases
+#### Libraries: Exhibits, Archives, Collections, Databases
 
 ##### Seminar | Monday, October 17
 
@@ -168,7 +167,7 @@ Examine: [The Viral Texts Project](https://viraltexts.org/)
     archipelagosjournal.org,
     https://doi.org/10.7916/archipelagos-6sqv-2f98.
 
-Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/); [Colored Conventions Project](https://coloredconventions.org/)
+☛ Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/); [Colored Conventions Project](https://coloredconventions.org/)
 
 
 ### Week 8
@@ -199,7 +198,7 @@ Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/); [Colored Con
     Practices*. Grigar, Dene, and James Christopher O'Sullivan, editors.
     Bloomsbury Academic, 2021. Selections.
 
-Examine: [The Electronic Literature Collection](https://collection.eliterature.org/)
+☛ Examine: [The Electronic Literature Collection](https://collection.eliterature.org/)
 
 ##### Studio | Wednesday, November 2
 
@@ -224,7 +223,7 @@ Examine: [The Electronic Literature Collection](https://collection.eliterature.o
     https://doi.org/10.7916/archipelagos-xn3y-vj19.
 
 
-Examine: The material world around you. I know, I know. Just look at it again, please.
+☛ Examine: The material world around you. I know, I know. Just look at it again, please.
 
 ##### Studio | Wednesday, November 9
 
@@ -248,7 +247,7 @@ Examine: The material world around you. I know, I know. Just look at it again, p
     vol. 23, no. 4, May 2021, pp. 544--69. Taylor and Francis+NEJM,
     https://doi.org/10.1080/1369801X.2020.1762700.
 
-Examine: [The Praxis Network](http://praxis-network.org/)
+☛ Examine: [The Praxis Network](http://praxis-network.org/)
 
 ##### Studio | Wednesday, November 16 
 
@@ -270,7 +269,7 @@ Examine: [The Praxis Network](http://praxis-network.org/)
 -   Ramsay, Stephen. *Reading Machines: Toward and Algorithmic
     Criticism*. University of Illinois Press, 2011. Selections.
 
-Examine: A replica of the Turing machine
+☛ Examine: A replica of the Turing machine
 
 ##### Studio | Wednesday, December 1 
  
@@ -278,7 +277,7 @@ Examine: A replica of the Turing machine
 
 ### Week 13
 
-#### Exeunt to the World: Nimble Tents
+#### Exeunt to the World: Workers of the record, unite!
 
 ##### Seminar | Monday, December 5
 
@@ -286,7 +285,7 @@ Examine: A replica of the Turing machine
 -   Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p\_de_sa_pereira_2.html)." *Torn
     Apart/Separados*. June 2018. xpmethod.columbia.edu.
 
-Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/), [SUCHO](https://www.sucho.org/)
+☛ Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/), [SUCHO](https://www.sucho.org/)
 
 ##### Studio | Wednesday, December 7
 
@@ -294,8 +293,10 @@ Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/
 
 ### The Final Week
 
-#### Launch: Nerves, Celebration and Joy
+#### Curtains: Nerves, Celebration and Joy
+
+[Location TBD]
 
 On the final week we will simply celebrate each other's works and
-camaraderie. Stay tuned for next semesters *Introduction to Digital
-Humanities II: Algorithmic Approaches to Corpora*. Location TBD.
+camaraderie. Stay tuned for next semester's *Introduction to Digital
+Humanities II: Algorithmic Approaches to Corpora*. 
