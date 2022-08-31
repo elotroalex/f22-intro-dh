@@ -5,10 +5,15 @@ title: General
 
 ### Course Info
 
-Listings: SPAN 845; SPAN 291; CPLT 606; FREN 945; HUMS 387
-Fall Semester, 2022   
-MW 2:30pm–3:45pm   
-Humanities Quadrangle 307     
+Yale University   
+Introduction to Digital Humanities I   
+Architectures of Knowledge
+   
+Fall 2022   
+SPAN 845 | SPAN 291 | CPLT 606 | FREN 945 | HUMS 387   
+   
+Humanities Quadrangle 307   
+MW 2:30pm–3:45pm  
 
 
 ### Instructor
@@ -23,7 +28,7 @@ e-mail: alex.gil@yale.edu
 
 ### Course Format
 
-This course will take two distinct forms: Mondays will consist of a seminar preceded by a brief lecture; and, Wednesdays we will have a digital studio where you will receive tutorials and work in teams to build and learn. In addition, students will be asked to participate in online discussions combined with online annotation exercises using [hypothes.is](https://web.hypothes.is/). To learn more, please visit the [assignments page](/assignments.html).
+This course will take two distinct forms: Mondays will consist of a seminar preceded by a brief lecture; and, Wednesdays we will have a digital studio where you will receive tutorials and work in teams to build and learn. In addition, students will be asked to participate in asynchronous community combined with online annotation exercises using [hypothes.is](https://web.hypothes.is/). Our choice of communication app will depend on the majority's preferences and/or special needs.
 
 ### Requisites
 
@@ -31,15 +36,17 @@ An interest in questions of art, history, law, culture, philology and philosophy
 
 ### Course Materials
 
-All readings in this course will be provided *free to you*. Many articles and book chapters will be available for participants in the class on our shared drive following fair use guidelines. Other articles, and even books, listed on the schedule will be available on the web open access. You fill find the appropriate links for all course materials in [the course schedule](/schedule.html).
+All readings in this course will be provided *free to you*. Many articles and book chapters will be available for participants in the class on our shared drive following fair use guidelines. Other articles, and even books listed on the schedule will be available on the web open access. You fill find the appropriate links for all course materials in [the course schedule](/schedule.html).
 
 ### Assessment and Grading
 
 - 20% Online Annotations
 - 10% Class Participation
-- 20% Midterm Exam
+- 20% Midterm Reflection
 - 30% Collective Research Project
 - 20% Scholarly Project Design Paper
+
+To learn more, please visit the [assignments page]({{"/assignments.html" | relative_url}}) [In construction].
 
 ### Fundamentals of Computing
 

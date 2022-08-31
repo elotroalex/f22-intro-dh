@@ -46,7 +46,7 @@ title: Schedule
     Analysis](http://poeticstoday.dukejournals.org/content/25/1/67.abstract)."
     *Poetics Today* 25, no. 1 (2004): 67--90.
 
-Explore: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
+Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
 ##### Studio | Wednesday, September 14
 
@@ -79,9 +79,9 @@ Explore: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
     Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
     Programming Historian, Mar. 2014. programminghistorian.org.
 
-Exlore: Your file system and storage
+Examine: Your file system and storage
 
-##### Studio | Wednesday, September 14
+##### Studio | Wednesday, September 21
 
 - Tutorial: Terminal basics
 - Tutorial: [Pandoc](https://pandoc.org/installing.html) (Please install before class)
@@ -90,6 +90,8 @@ Exlore: Your file system and storage
 
 #### Editions: Static Sites, Markup
 
+##### Seminar | Monday, September 26
+
 -   Sahle, Patrick. "What Is a Scholarly Digital Edition?" *Digital
     Scholarly Editing : Theories and Practices*, edited by Matthew James
     Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
@@ -97,13 +99,18 @@ Exlore: Your file system and storage
 -   McGann, Jerome. *Radiant Textuality: Literary Studies after the
     World Wide Web*. 1st edition, Palgrave Macmillan, 2001.
 
-Examine: The Shelley-Godwin Archive
+Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
 
-**Studio**: Ed; Markdown
+##### Studio | Wednesday, September 28 
+
+- Tutorial: Ed
+- Tutorial: Markdown
 
 ### Week 5
 
-#### Citations: Links, Enumerative Bibliographies, Catalogues
+#### Bibliographies: Search Results, Works Cited, Syllabi, Catalogues
+
+##### Seminar | Monday, October 3
 
 -   Goldsby, Jacqueline, and Meredith L. McGill. "Black Bibliography
     Project." The Black Bibliography Project, 11 Oct. 2019,
@@ -121,13 +128,17 @@ Examine: The Shelley-Godwin Archive
 For your Bookshelf: Tanselle, G. Thomas. *Introduction to Bibliography*.
 Book Arts Press, 2002.
 
-Examine: The Open Syllabus Project
+Examine: [The Open Syllabus Project](https://opensyllabus.org/)
 
-**Studio**: Zotero
+##### Studio | Wednesday, October 5  
+
+- Zotero
 
 ### Week 6
 
-#### Data: Introduction to Data Structures
+#### Data: Given and Taken, Law and Order.
+
+##### Seminar | Monday, October 10
 
 -   D'Ignazio, Catherine, and Lauren F. Klein. *Data Feminism*. MIT
     Press, 2020. Selections.
@@ -138,11 +149,16 @@ Examine: The Open Syllabus Project
 
 Examine: [The Viral Texts Project](https://viraltexts.org/)
 
-**Studio**: CSVs, YAML
+##### Studio | Wednesday, October 12
+
+- CSVs
+- YAML
 
 ### Week 7
 
 #### Collections: Repositories, Archives, Libraries, Databases
+
+##### Seminar | Monday, October 17
 
 -   Hartman, Saidiya. "Venus in Two Acts." *Small Axe*, vol. 12, no. 2,
     2008, pp. 1--14.
@@ -156,16 +172,26 @@ Examine: [The Viral Texts Project](https://viraltexts.org/)
 
 Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/)
 
-**Studio**: Wax I
 
 ### Week 8
 
+#### Halfway there
+
+##### Midterm Exam | Monday, October 24
+
+##### Studio | Wednesday, October 26
+
+- Tutorial: Wax I
+- Project brainstorm
+
+### Week 9
+
 #### Play: Digital Storytelling, Electronic Literature
 
--   Borges, Jorge Luis. "The Library of Babel" (1941); "Tlön, Uqbar,
-    Orbis Tertius" (1940)
--   Basile, Jonathan. "[The Library of
-    Babel](https://libraryofbabel.info/)" (2015)
+##### Seminar | Monday, October 31
+
+-   Borges, Jorge Luis. "Tlön, Uqbar, Orbis Tertius" (1940)
+-   Basile, Jonathan. "[The Library of Babel](https://libraryofbabel.info/)" (2015)
 -   Momfort, Nick and Stephanie Strickland. "[Sea and Spar in
     Between](http://winteranthology.com/?vol=3&author=montfort-strickland&title=seaandspar)."
     The Winter Anthology. 3. (2011)
@@ -173,14 +199,18 @@ Examine: [La Gazette Royale d'Haïti](http://lagazetteroyale.com/)
     Practices*. Grigar, Dene, and James Christopher O'Sullivan, editors.
     Bloomsbury Academic, 2021. Selections.
 
-Examine: [The Electronic Literature
-Collection](https://collection.eliterature.org/)
+Examine: [The Electronic Literature Collection](https://collection.eliterature.org/)
 
-**Studio**: Wax II
+##### Studio | Wednesday, November 2
 
-### Week 9
+- Tutorial: Wax II
+- Project planning
+
+### Week 10
 
 #### Readers: Design, Access, Reviews
+
+##### Seminar | Monday, November 7
 
 -   Brouillette, Sarah. *UNESCO and the Fate of the Literary*. Stanford
     University Press, 2019. Selections.
@@ -196,11 +226,14 @@ Collection](https://collection.eliterature.org/)
 -   -----. *Towards a New Architecture*. Martino Fine Books, 2014.
     Selections.
 
-Examine: Reviews in DH
+Examine: The material world around you.
 
-**Studio**: CSS, Social Media
+##### Studio | Wednesday, November 9
 
-### Week 10
+- CSS
+- Social Media
+
+### Week 11
 
 #### Labor: Collaboration, Divisions of Labor, Project Management
 
@@ -219,7 +252,7 @@ Examine: [The Praxis Network](http://praxis-network.org/)
 
 **Studio**: Github
 
-### Week 11
+### Week 12
 
 #### Machines: Minimal Computing, Computing a little
 
@@ -238,7 +271,7 @@ Examine:
 **Studio**: A very gentle introduction to algorithmic thinking and
 practice
 
-### Week 12
+### Week 13
 
 #### The World: Nimble Tents
 
