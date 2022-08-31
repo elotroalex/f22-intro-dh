@@ -5,37 +5,34 @@ title: Schedule
 
 ### Week 0 | Wednesday, August 31
 
-#### Inaugural Lecture by Prof. Alex Gil 
+#### Inaugural Lecture by Prof. Alex Gil
 
 ### Week 1
 
-#### Everything, Everywhere, All At Once: The Digital Cultural Record
+#### Everything, Everywhere, All At Once: The (Digital) Cultural Record
 
-Because of Labor Day, Studio and Seminar will be in reverse order this "week." Studio will be on Friday, September 2, on our second day of class, and our first seminar will be on Wednesday, September 7.
+☛ Because of Labor Day, Studio and Seminar will be in reverse order this "week." Studio will be on Friday, September 2, and our first seminar will be on Wednesday, September 7.
 
 ##### Studio | Friday, September 2
 
-- Getting to know each other
-- Preparing our class toolkit
-- Tutorial: Hypothes.is
+- Who are we?
+- Collecting our thoughts and instruments
+- Tutorial: hypothes.is
 
 ##### Seminar | Wednesday, September 7
 
-Read: 
-
--   Borges, Jorge Luis. "The Library of Babel"; "El Aleph."
--   Burdick, Anne, et al. [*Digital_Humanities*](https://direct.mit.edu/books/book/5346/Digital-Humanities). MIT Press, 2012.
--   Risam, Roopika. "Introduction: The Postcolonial Digital Cultural Record." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*. Northwestern University Press, 2018.
-
-Explore:
-
-- [Around DH in 80 Days](https://arounddh.elotroalex.com/journey/)
+- Borges, Jorge Luis. "The Library of Babel"; "El Aleph."
+- Burdick, Anne, et al. [*Digital_Humanities*](https://direct.mit.edu/books/book/5346/Digital-Humanities). MIT Press, 2012.
+- Risam, Roopika. "Introduction: The Postcolonial Digital Cultural Record." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*. Northwestern University Press, 2018.
+- [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam. Vol. 3.
 
 
 
 ### Week 2
 
-#### Letters: Plain Text. Encoding. Surface, Depth. WYSIWYG.
+#### Letters: Plain Text. Encoding. Surface and Depth. WYSIWYG... or not.
+
+##### Seminar | Monday, September 12
 
 -   Marx, Karl. "[Preface](https://archive.org/details/acontributionto01marxgoog)."
     A Contribution to the Critique of Political Economy. New York,
@@ -49,13 +46,22 @@ Explore:
     Analysis](http://poeticstoday.dukejournals.org/content/25/1/67.abstract)."
     *Poetics Today* 25, no. 1 (2004): 67--90.
 
-Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
+Explore: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
-**Studio:** Plain Text Editing
+##### Studio | Wednesday, September 14
+
+- Plain Text Editing
+- Tutorial: [Microsoft Visual Studio Code](https://code.visualstudio.com/)  (Please install before class)
+
+
+
+
 
 ### Week 3
 
-#### Documents: Files and Filing Systems
+#### Documents: Files, Types and Cabinets
+
+##### Seminar | Monday, September 19
 
 -   Bush, Vannevar. "[As We May
     Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)."
@@ -75,7 +81,10 @@ Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
 Exlore: Your file system and storage
 
-**Studio**: Terminal basics; Pandoc.
+##### Studio | Wednesday, September 14
+
+- Tutorial: Terminal basics
+- Tutorial: [Pandoc](https://pandoc.org/installing.html) (Please install before class)
 
 ### Week 4
 
