@@ -194,7 +194,7 @@ Book Arts Press, 2002.
 
 -   Borges, Jorge Luis. "The Library of Babel" (1941); "Tlön, Uqbar, Orbis Tertius" (1940)
 -   Basile, Jonathan. "[The Library of Babel](https://libraryofbabel.info/)" (2015)
--   Momfort, Nick and Stephanie Strickland. "[Sea and Spar in
+-   Montfort, Nick and Stephanie Strickland. "[Sea and Spar in
     Between](http://winteranthology.com/?vol=3&author=montfort-strickland&title=seaandspar)."
     The Winter Anthology. 3. (2011)
 -   *Electronic Literature as Digital Humanities: Contexts, Forms, &
@@ -287,6 +287,7 @@ Book Arts Press, 2002.
 -   [The Nimble Tents Toolkit](https://nimbletents.github.io/)
 -   Sá Pereira, Moacir P. de. "[Representation Matters](http://xpmethod.columbia.edu/torn-apart/reflections/moacir_p\_de_sa_pereira_2.html)." *Torn
     Apart/Separados*. June 2018. xpmethod.columbia.edu.
+- [pirate.care.syllabus▒▒▒🐙](https://syllabus.pirate.care/)
 
 ☛ Examine: [Torn Apart/Separados](https://xpmethod.columbia.edu/torn-apart/volume/1/), [SUCHO](https://www.sucho.org/)
 
