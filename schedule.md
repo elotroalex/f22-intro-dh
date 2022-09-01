@@ -94,8 +94,9 @@ title: Schedule
     Scholarly Editing : Theories and Practices*, edited by Matthew James
     Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
     OpenEdition Books, http://books.openedition.org/obp/3397.
+- McKenzie, D. F. *Bibliography and the Sociology of Texts*. The Panizzi Lectures 1985. London: British Library, 1986. Selections.
 -   McGann, Jerome. *Radiant Textuality: Literary Studies after the
-    World Wide Web*. 1st edition, Palgrave Macmillan, 2001.
+    World Wide Web*. 1st edition, Palgrave Macmillan, 2001. Selections.
 
 ☛ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
 
@@ -265,11 +266,11 @@ Book Arts Press, 2002.
     Digital Scholarship in the Humanities, vol. 30, no. 1, Dec. 2015,
     pp. i4--15, https://doi.org/10.1093/llc/fqv015.
 -   Risam, Roopika, and Alex Gil. "[Introduction: The Questions of
-    Minimal
-    Computing](http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html)."
+    Minimal Computing](http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html)."
     *Digital Humanities Quarterly*. 16.2. 2022
 -   Ramsay, Stephen. *Reading Machines: Toward and Algorithmic
     Criticism*. University of Illinois Press, 2011. Selections.
+- Wark, McKenzie. *Molecular Red: Theory for the Anthropocene*. Verso Books, 2016. Selections
 
 ☛ Examine: A replica of the Turing machine
 
