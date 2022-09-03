@@ -21,10 +21,10 @@ title: Schedule
 
 ##### Seminar | Wednesday, September 7
 
-- Borges, Jorge Luis. "The Congress of the World"; "El Aleph."
+- Borges, Jorge Luis. "[The Congress](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf)"; "[El Aleph](https://posthegemony.files.wordpress.com/2013/02/borges_collected-fictions.pdf)."
 - Burdick, Anne, et al. [*Digital_Humanities*](https://direct.mit.edu/books/book/5346/Digital-Humanities). MIT Press, 2012.
-- Risam, Roopika. "Introduction: The Postcolonial Digital Cultural Record." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*. Northwestern University Press, 2018.
-- [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam. Vol. 3.
+- Risam, Roopika. "[Introduction: The Postcolonial Digital Cultural Record](https://muse.jhu.edu/chapter/2230421/pdf)." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*. Northwestern University Press, 2018.
+- [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam. Vol. 3. 2022.
 
 
 
@@ -210,7 +210,7 @@ Book Arts Press, 2002.
 
 ### Week 10
 
-#### Artifice: This Archive Is Not A City.
+#### Artifice: Ceci n'est pas an archive.
 
 ##### Seminar | Monday, November 7
 
