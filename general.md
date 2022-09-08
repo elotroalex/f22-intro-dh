@@ -20,7 +20,7 @@ MW 2:30pm–3:45pm
 
 [Prof. Alex Gil](http://www.elotroalex.com/profiles/)  
 Office: Humanities Quadrangle, Room 439   
-In Person Office Hours: Tuesdays, 10pm–11pm.    
+In Person Office Hours: Mondays, 1pm-2pm.    
 Virtual Office Hours: Thursdays, 2pm–3pm, via [Telegram](https://t.me/elotroalex).    
 e-mail: alex.gil@yale.edu   
 

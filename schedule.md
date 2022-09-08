@@ -26,6 +26,13 @@ title: Schedule
 - Risam, Roopika. "[Introduction: The Postcolonial Digital Cultural Record](https://muse.jhu.edu/chapter/2230421/pdf)." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*. Northwestern University Press, 2018.
 - [Reviews in DH](https://reviewsindh.pubpub.org/). Edited by Jennifer Guiliano and Roopika Risam. Vol. 3. 2022.
 
+<!-- Lessons learned:
+
+a) Start with an exercise: Have students build the Global Library of All Things
+b) Consider Borges' the Garden of Forking Paths
+
+ -->
+
 
 
 ### Week 2
@@ -40,8 +47,7 @@ title: Schedule
     doi:10.1525/rep.2009.108.1.1
 -   Hayles, N. Katherine. "[Print Is Flat, Code Is Deep: The Importance
     of Media-Specific
-    Analysis](http://poeticstoday.dukejournals.org/content/25/1/67.abstract)."
-    *Poetics Today* 25, no. 1 (2004): 67--90.
+    Analysis](https://muse-jhu-edu.yale.idm.oclc.org/article/54949)
 
 ☛ Look over at leisure: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
