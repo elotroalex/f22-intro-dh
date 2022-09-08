@@ -34,9 +34,6 @@ title: Schedule
 
 ##### Seminar | Monday, September 12
 
--   Marx, Karl. "[Preface](https://archive.org/details/acontributionto01marxgoog)."
-    A Contribution to the Critique of Political Economy. New York,
-    International Publishers,1970.
 -   Best, Stephen, and Sharon Marcus. "[Surface Reading: An
     Introduction.](http://www.jstor.org/stable/10.1525/rep.2009.108.1.1)"
     *Representations* 108, no. 1 (November 2009): 1--21.
@@ -46,7 +43,7 @@ title: Schedule
     Analysis](http://poeticstoday.dukejournals.org/content/25/1/67.abstract)."
     *Poetics Today* 25, no. 1 (2004): 67--90.
 
-☛ Examine: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
+☛ Look over at leisure: [Unicode 1.0.0](http://www.unicode.org/versions/Unicode1.0.0/)
 
 ##### Studio | Wednesday, September 14
 
