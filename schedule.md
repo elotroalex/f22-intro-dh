@@ -66,15 +66,15 @@ b) Consider Borges' the Garden of Forking Paths
 
 ##### Seminar | Monday, September 19
 
--   Bush, Vannevar. "[As We May Think](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." *The Atlantic*, July 1945.
+-   Bush, Vannevar. "[As We May Think](https://via.hypothes.is/https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)." *The Atlantic*, July 1945. [Link connects to hypothes.is]
 -   Tagg, John. "[The Archiving Machine; Or, The Camera and the Filing
-    Cabinet](http://www.mitpressjournals.org.ezproxy.cul.columbia.edu/doi/pdf/10.1162/GREY_a_00068)."
+    Cabinet](https://direct-mit-edu.yale.idm.oclc.org/grey/article/doi/10.1162/GREY_a_00068/10631/The-Archiving-Machine-or-The-Camera-and-the-Filing)."
     *Grey Room*, no. 47 (April 1, 2012): 24--37.
--   Kernighan, Brian W, and Rob Pike. "The File System" in *The UNIX
-    Programming Environment*. Englewood Cliffs, N.J.: Prentice-Hall,
-    1984.
+-   Kernighan, Brian W, and Rob Pike. "The File System" in *[The UNIX
+    Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programming-environment-kernighan-pike.pdf)*. Englewood Cliffs, N.J.: Prentice-Hall,
+    1984: 41--65.
 -   Vismann, Cornelia. *Files: Law and Media Technology*. Translated by
-    Geoffrey Winthrop-Young, Stanford University Press, 2008. (pp 1-38).
+    Geoffrey Winthrop-Young, Stanford University Press, 2008: 1--38.
 -   Tenen, Dennis, and Grant Wythoff. "[Sustainable Authorship in Plain
     Text Using Pandoc and
     Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
