@@ -73,8 +73,7 @@ b) Consider Borges' the Garden of Forking Paths
 -   Kernighan, Brian W, and Rob Pike. "The File System" in *[The UNIX
     Programming Environment](http://files.catwell.info/misc/mirror/the-unix-programming-environment-kernighan-pike.pdf)*. Englewood Cliffs, N.J.: Prentice-Hall,
     1984: 41--65.
--   Vismann, Cornelia. *Files: Law and Media Technology*. Translated by
-    Geoffrey Winthrop-Young, Stanford University Press, 2008: 1--38.
+-   Vismann, Cornelia. ["Preface" and "Law's Writing Lesson"](https://drive.google.com/file/d/1dq40AGtyv42B6coFdd0X8LAIPZ0EbFY7/view?usp=sharing) in *Files: Law and Media Technology*. Translated by Geoffrey Winthrop-Young, Stanford University Press, 2008: 1--38.
 -   Tenen, Dennis, and Grant Wythoff. "[Sustainable Authorship in Plain
     Text Using Pandoc and
     Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
