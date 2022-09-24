@@ -93,7 +93,6 @@ b) Consider Borges' the Garden of Forking Paths
 ##### Seminar | Monday, September 26
 
 -   Sahle, Patrick. "What Is a Scholarly Digital Edition?" *[Digital Scholarly Editing : Theories and Practices](http://books.openedition.org/obp/3397)*, edited by Matthew James Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
-- McKenzie, D. F. *Bibliography and the Sociology of Texts*. The Panizzi Lectures 1985. London: British Library, 1986.
 -   McGann, Jerome. "[Introduction]({{site.baseurl}}/assets/docs/mcgann-radiant-intro.pdf)." *Radiant Textuality: Literary Studies after the World Wide Web*. 1st edition, Palgrave Macmillan, 2001.
 
 ☛ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/); [The Rosetti Archive](http://www.rossettiarchive.org/)
@@ -109,22 +108,12 @@ b) Consider Borges' the Garden of Forking Paths
 
 ##### Seminar | Monday, October 3
 
--   Goldsby, Jacqueline, and Meredith L. McGill. "Black Bibliography
-    Project." The Black Bibliography Project, 11 Oct. 2019,
-    https://blackbibliog.org/.
--   Allen, Graham. *Intertextuality*. Routledge, 2021.
-    https://doi.org/10.4324/9781003223795. Selections.
--   Gil, Alex. "Placing Césaire: Some Considerations on Cartography and
-    Enumerative Bibliographies." *Caribbean Quarterly*, vol. 62, no.
-    3--4, Oct. 2016, pp. 373--87. Taylor and Francis,
-    https://doi.org/10.1080/00086495.2016.1260278.
--   Godin, Benoît. "On the Origins of Bibliometrics." *Scientometrics*,
-    vol. 68, no. 1, July 2006, pp. 109--33. akjournals.com,
-    https://doi.org/10.1007/s11192-006-0086-0.
-- Tanselle, G. Thomas. "Table of Contents." *Introduction to Bibliography*.
-Book Arts Press, 2002. 
 
-☛ Examine: [The Open Syllabus Project](https://opensyllabus.org/)
+- McKenzie, D. F. *Bibliography and the Sociology of Texts*. The Panizzi Lectures 1985. London: British Library, 1986.
+-   Godin, Benoît. "[On the Origins of Bibliometrics](https://doi.org/10.1007/s11192-006-0086-0)." *Scientometrics*, vol. 68, no. 1, July 2006, pp. 109--33. akjournals.com.
+- Tanselle, G. Thomas. "Table of Contents." *[Introduction to Bibliography](https://rarebookschool.org/2011/tanselle/syl-B-complete.090302.pdf)*. Book Arts Press, 2002. 
+
+☛ Examine: [The Open Syllabus Project](https://opensyllabus.org/); Goldsby, Jacqueline, and Meredith L. McGill. "[Black Bibliography Project](https://blackbibliog.org/)." 
 
 ##### Studio | Wednesday, October 5  
 
