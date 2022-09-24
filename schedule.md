@@ -92,15 +92,11 @@ b) Consider Borges' the Garden of Forking Paths
 
 ##### Seminar | Monday, September 26
 
--   Sahle, Patrick. "What Is a Scholarly Digital Edition?" *Digital
-    Scholarly Editing : Theories and Practices*, edited by Matthew James
-    Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
-    OpenEdition Books, http://books.openedition.org/obp/3397.
-- McKenzie, D. F. *Bibliography and the Sociology of Texts*. The Panizzi Lectures 1985. London: British Library, 1986. Selections.
--   McGann, Jerome. *Radiant Textuality: Literary Studies after the
-    World Wide Web*. 1st edition, Palgrave Macmillan, 2001. Selections.
+-   Sahle, Patrick. "What Is a Scholarly Digital Edition?" *[Digital Scholarly Editing : Theories and Practices](http://books.openedition.org/obp/3397)*, edited by Matthew James Driscoll and Elena Pierazzo, Open Book Publishers, 2017, pp. 19--39.
+- McKenzie, D. F. *Bibliography and the Sociology of Texts*. The Panizzi Lectures 1985. London: British Library, 1986.
+-   McGann, Jerome. "[Introduction]({{site.baseurl}}/assets/docs/mcgann-radiant-intro.pdf)." *Radiant Textuality: Literary Studies after the World Wide Web*. 1st edition, Palgrave Macmillan, 2001.
 
-☛ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
+☛ Examine: [The Shelley-Godwin Archive](http://shelleygodwinarchive.org/); [The Rosetti Archive](http://www.rossettiarchive.org/)
 
 ##### Studio | Wednesday, September 28 
 
