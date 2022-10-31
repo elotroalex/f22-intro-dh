@@ -5,9 +5,10 @@ title: Assignments
 
 ### Online Annotations
 
-During the semester you will start at least three conversations in one of our readings, and respond to at least three others started by someone else. 
+During the semester you will start at least three conversations in one of our readings, and respond to at least three others started by someone else. We will use the tool hypothes.is in order to do our annotation exchanges. Below is the schedule for our online exchanges:
 
-[Details to come...]
+- Monday, September 19. Bush, Vannevar. “As We May Think.”
+- 
 
 ### Class Engagement
 

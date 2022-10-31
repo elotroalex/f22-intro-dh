@@ -181,14 +181,13 @@ b) Consider Borges' the Garden of Forking Paths
 
 ##### Seminar | Monday, October 31
 
--   Borges, Jorge Luis. "The Library of Babel" (1941); "Tlön, Uqbar, Orbis Tertius" (1940)
+-   Borges, Jorge Luis. "[The Library of Babel](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf)" (1941); "[Tlön, Uqbar, Orbis Tertius](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-Tl%C3%B6n-Uqbar-Orbius-Tertius.pdf)" (1940)
 -   Basile, Jonathan. "[The Library of Babel](https://libraryofbabel.info/)" (2015)
 -   Montfort, Nick and Stephanie Strickland. "[Sea and Spar in
     Between](http://winteranthology.com/?vol=3&author=montfort-strickland&title=seaandspar)."
     The Winter Anthology. 3. (2011)
--   *Electronic Literature as Digital Humanities: Contexts, Forms, &
-    Practices*. Grigar, Dene, and James Christopher O'Sullivan, editors.
-    Bloomsbury Academic, 2021. Selections.
+-   Flores, Leonardo. "[Artistic and Literary Bots](https://www.bloomsburycollections.com/book/electronic-literature-as-digital-humanities-contexts-forms-practices/ch11-artistic-and-literary-bots)." *Electronic Literature as Digital Humanities: Contexts, Forms, & Practices*. Grigar, Dene, and James Christopher O'Sullivan, editors. Bloomsbury Academic, 2021.
+-   Tanenbaum, Theresa Jean and Karen Tanenbaum. "[Consuming the Database: The Reading Glove as a Case Study of Combinatorial Narrative](https://www.bloomsburycollections.com/book/electronic-literature-as-digital-humanities-contexts-forms-practices/ch12-consuming-the-database-the-reading-glove-as-a-case-study-of-combinatorial-narrative)." *Electronic Literature as Digital Humanities: Contexts, Forms, & Practices*. Grigar, Dene, and James Christopher O'Sullivan, editors. Bloomsbury Academic, 2021.
 
 ☛ Examine: [The Electronic Literature Collection](https://collection.eliterature.org/)
 
