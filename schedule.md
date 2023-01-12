@@ -198,20 +198,16 @@ b) Consider Borges' the Garden of Forking Paths
 
 ### Week 10
 
-#### Artifice: Ceci n'est pas an archive.
+#### Dusting: Time Capsules
 
 ##### Seminar | Monday, November 7
 
--   Brouillette, Sarah. *UNESCO and the Fate of the Literary*. Stanford
-    University Press, 2019. Selections.
--   Mattern, Shannon. *[A City Is Not a Computer](https://press.princeton.edu/books/paperback/9780691208053/a-city-is-not-a-computer)*. Princeton University Press, 2021. Selections.
--   Le Corbusier. *The Modulor: A Harmonious Measure to the Human Scale
-    Universally Applied to Architecture and Mechanics*. 1968.
-    Selections; *Towards a New Architecture*. Martino Fine Books, 2014.
-    Selections.
--   Parham, Marisa. ".Break .Dance." *sx archipelagos*, no. 3,
-    July 2019. archipelagosjournal.org,
-    https://doi.org/10.7916/archipelagos-xn3y-vj19.
+- Jarvis, William E. “Modern Time Capsules: Symbolic Repositories of Civilization.” Libraries & Culture, vol. 27, no. No. 3, Summer 1992, pp. 279–95.
+- Nowviskie, B. “Digital Humanities in the Anthropocene.” Digital Scholarship in the Humanities, vol. 30, no. suppl 1, Dec. 2015, pp. i4–15. DOI.org (Crossref), https://doi.org/10.1093/llc/fqv015.
+- Swann, Marjorie (Marjorie E. ). “Introduction.” *Curiosities and Texts: The Culture of Collecting in Early Modern England*, University of Pennsylvania Press, 2001.
+- Yablon, Nick. “Encapsulating the Present: Material Decay, Labor Unrest, and the Prehistory of the Time Capsule, 1876–1914.” Winterthur Portfolio, vol. 45, no. 1, 2011, pp. 1–28. JSTOR, https://doi.org/10.1086/658932.
+- ---. “Memory, History, Posterity.” Remembrance of Things Present: The Invention of the Time Capsule, edited by Nick Yablon, University of Chicago Press, 2019, p. 0. Silverchair, https://doi.org/10.7208/chicago/9780226574271.003.0001.
+
 
 
 ☛ Examine: The material world around you. I know, I know. Just look at it again, please.
@@ -225,24 +221,14 @@ b) Consider Borges' the Garden of Forking Paths
 
 #### Craft: Collaboration, Divisions of Labor, Project Management
 
-##### Seminar | Monday, November 14
+##### Project Work | Monday, November 14
 
--   Smith, Adam, and Andrew Skinner. *The Wealth of Nations*. 1st
-    edition, Penguin Classics, 1982. Selections from Book 1.
--   Rognoli, Valentina, and Ernesto Oroza. "'Worker, Build Your Own
-    Machinery!' A Workshop to Practice the Technological Disobedience."
-    *Plate-Product Lifetimes and the Environment Conference*, Nottingham
-    Trent University, 2015, pp. 324--33.
--   "Scope Creep." Wikipedia.
--   De Ferrari, Guillermina. "Net, Module, Chance." Interventions,
-    vol. 23, no. 4, May 2021, pp. 544--69. Taylor and Francis+NEJM,
-    https://doi.org/10.1080/1369801X.2020.1762700.
+-   Setting up our team.
 
 ☛ Examine: [The Praxis Network](http://praxis-network.org/)
 
-##### Studio | Wednesday, November 16 
+##### Visit to the museum | Wednesday, November 16 
 
-- Github
 
 ### Week 12
 
@@ -250,15 +236,9 @@ b) Consider Borges' the Garden of Forking Paths
 
 ##### Seminar | Monday, November 28
 
--   Nowviskie, Bethany. "Digital Humanities in the Anthropocene."
-    Digital Scholarship in the Humanities, vol. 30, no. 1, Dec. 2015,
-    pp. i4--15, https://doi.org/10.1093/llc/fqv015.
 -   Risam, Roopika, and Alex Gil. "[Introduction: The Questions of
     Minimal Computing](http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html)."
     *Digital Humanities Quarterly*. 16.2. 2022
--   Ramsay, Stephen. *Reading Machines: Toward and Algorithmic
-    Criticism*. University of Illinois Press, 2011. Selections.
-- Wark, McKenzie. *Molecular Red: Theory for the Anthropocene*. Verso Books, 2016. Selections
 
 ☛ Examine: A replica of the Turing machine
 
